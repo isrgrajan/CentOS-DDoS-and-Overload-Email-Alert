@@ -1,4 +1,4 @@
-# Centos-DDoS-and-Overload-Email-Alert
+# CentOs-DDoS-and-Overload-Email-Alert
 SSH Script to detect System overload in CentOS and send notification to admin using the mail() server.
 
 ### How to Install?
