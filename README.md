@@ -12,4 +12,4 @@ SSH Script to detect System overload in CentOS and send notification to admin us
 In order to schedule the alert you need to add the cron-job.
 For instance if you want the system to check the average limit in every 5 minute you can 
 
-*/5 * * * * bash /YOUR-PATH/cis-checkload.sh >/dev/null 2>&1
+`*/5 * * * * bash /YOUR-PATH/cis-checkload.sh >/dev/null 2>&1`
